@@ -1,6 +1,6 @@
 # Class #2
-- Install git : https://gitforwindows.org/
-- 🐍 pyenv install & cheat-sheet
+1. Install git : https://gitforwindows.org/
+2. 🐍 pyenv install & cheat-sheet
 
    ##### Windows
 
@@ -86,9 +86,9 @@
         ```sh
         pyenv exec <version> <command>
         ```
-2. Install python 3.8.6 using pyenv (using commands in cheat-sheet)
-3. Install vscode (https://code.visualstudio.com/download)
-4. Install following extentions in vscode:
+3. Install python 3.8.6 using pyenv (using commands in cheat-sheet)
+4. Install vscode (https://code.visualstudio.com/download)
+5. Install following extentions in vscode:
     ```sh
     chrmarti.regex
     donjayamanne.githistory
@@ -126,7 +126,7 @@
     yzhang.markdown-all-in-one
     ```
 
-5. Install and create virtual environment:
+6. Install and create virtual environment:
 
     ```sh
     pip install virtualenv
