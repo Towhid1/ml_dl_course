@@ -142,3 +142,8 @@
        ```
        C:\Users\path\ml_dl_env\Scripts\activate
        ```
+
+# Class #3
+- Revisit DataTypes, Control Structure, Dynamic vs Static Typing
+- Python Functions, Docstring, Lambda function
+- Tutorials code added
