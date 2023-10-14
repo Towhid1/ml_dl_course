@@ -147,3 +147,9 @@
 - Revisit DataTypes, Control Structure, Dynamic vs Static Typing
 - Python Functions, Docstring, Lambda function
 - Tutorials code added
+
+# Class #4
+
+- Python Class
+- OOP in python
+- Design Patterns : https://refactoring.guru/design-patterns
