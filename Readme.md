@@ -158,4 +158,10 @@
 - dataset selection : https://www.kaggle.com/datasets/kartik2112/fraud-detection/code
 
 # Class #6
-- Numpy
+- Basic idea about Numpy
+- Vectors, Arrays, Matrices
+- Number generation
+- Array Attributes and Methods
+- Selection, Indexing
+- NumPy Operations
+- Numpy input & output
