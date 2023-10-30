@@ -153,3 +153,9 @@
 - Python Class
 - OOP in python
 - Design Patterns : https://refactoring.guru/design-patterns
+
+# Class #5
+- dataset selection : https://www.kaggle.com/datasets/kartik2112/fraud-detection/code
+
+# Class #6
+- Numpy
