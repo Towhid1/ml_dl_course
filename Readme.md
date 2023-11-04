@@ -171,3 +171,6 @@
 - Selection, Indexing
 - NumPy Operations
 - NumPy input & output
+
+# Class #7
+- Basic about Pandas
