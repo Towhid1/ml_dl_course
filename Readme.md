@@ -1,3 +1,9 @@
+# Machine Learning Batch #2
+
+[👍FB group: ML with Towhid](https://www.facebook.com/groups/144446068732805)
+[👍YouTube : Nurul Akter Towhid](https://www.youtube.com/@DSwithTowhid)
+
+
 # Class #2
 1. Install git : https://gitforwindows.org/
 2. 🐍 pyenv install & cheat-sheet
